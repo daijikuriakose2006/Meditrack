@@ -280,4 +280,4 @@ const ScheduleManagement = () => {
   );
 };
 
-export default ScheduleManagement;
+export default Schedule;

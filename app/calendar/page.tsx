@@ -1,13 +1,13 @@
 import React from 'react';
 import SideNavbar from '../components/sidenavbar';
-import DoctorDashboard from '../components/doctordashboard';
+import Calendar from '../components/calendar';
 
 const page = () => {
   return (
     <div className="flex">
       <SideNavbar />
       <div className="flex-1">
-        <DoctorDashboard />
+        <Calendar />
       </div>
     </div>
   );
